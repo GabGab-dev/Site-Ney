@@ -5,7 +5,7 @@ body {
 }
 
 nav {
-  background-color: rgb(8, 10, 24);
+  background-color: rgba(4,11,21,255);
   border: 3px solid black;
   display: flex;
   justify-content: space-between;
