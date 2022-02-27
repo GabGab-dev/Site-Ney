@@ -23,12 +23,25 @@ nav ul {
   list-style: none;
 }
 
-ul li {
+ul a {
   margin-right: 10px;
 }
 
-div img {
+button {
+  background-color: rgb(181, 15, 214);
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 0.50rem;
+}
+
+.imagem {
   border: 3px solid rgb(8, 10, 24);
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 div h4 {
