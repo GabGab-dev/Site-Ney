@@ -23,8 +23,13 @@ nav ul {
   list-style: none;
 }
 
-ul li {
+ul a {
   margin-right: 10px;
+}
+
+button{
+  background-color: rgb(181, 15, 214);
+  color: white;
 }
 
 div img {
